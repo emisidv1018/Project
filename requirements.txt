@@ -6,3 +6,5 @@ plotly
 gunicorn
 joblib
 folium
+st_folium
+streamlit.components.v1
