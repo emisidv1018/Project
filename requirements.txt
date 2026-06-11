@@ -1,0 +1,7 @@
+dash>=2.0.0
+dash-bootstrap-components
+pandas
+yfinance
+plotly
+gunicorn
+joblib
